@@ -1,7 +1,7 @@
 👋 Hi, I’m @V2003-k
 👀 I’m interested in technology, programming, photography, and gaming.
 🌱 I’m currently learning web development and dsa.
-💞️ I’m looking to collaborate on open-source projects related to web development.
+🚩 I’m looking to collaborate on open-source projects related to web development.
 📫 How to reach me: You can reach me via email at v.khaple030203@gmail.com or through my GitHub profile @V2003-k.
 😄 Pronouns: He/Him
 ⚡ Fun fact: I can solve a Rubik's Cube in under a minute!
